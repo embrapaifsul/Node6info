@@ -1,0 +1,15 @@
+{
+  "name": "node6info",
+  "version": "1.0.0",
+  "description": "revisando",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "teste"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
