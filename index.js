@@ -8,4 +8,4 @@ import routes from "./routes/route.js"
 
 app.use(routes)
 
-app.listen(3000)
+app.listen(3003)
